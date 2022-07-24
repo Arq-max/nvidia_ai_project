@@ -5,6 +5,7 @@ Emotion recognition is the ability for an human (or AI in this case) to analyse 
 
 Why is it important? How could it be used?:
 These two questions are one in the same. The importance of the AI model comes from its application.
+
 Healthcare:
 A potential use of this is to admit patients that seem worse off than others, especially in urgent care hospitals where a patient may not have an external wound or injury. Additionally, researchers at the Stanford University School of Medicine have experimented with AI to help children with autism read emotions better.
 
