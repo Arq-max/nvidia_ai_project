@@ -21,6 +21,9 @@ So far, the AI is able to detect 3 emotions and 1 'other' state: Happy, Mad, Neu
 Additional thoughts:
 If I were to improve the AI any further, I would definitely add a wider range of emotions, as well as the ability to read body language or at least detect movement. Additionally, I would add more universal images and more 'epochs'
 
+.pth File:
+https://mega.nz/file/OW42kY6L#865_H86v3Jf2eF5UsIsnVNH9zk-2wtGCiNpN5AXROdw
+
 Sources:
 https://www.itbusinessedge.com/business-intelligence/value-emotion-recognition-technology/
 https://med.stanford.edu/news/all-news/2018/08/google-glass-helps-kids-with-autism-read-facial-expressions.html
