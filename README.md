@@ -15,8 +15,11 @@ There are many business applications for this as well. Advertisers could use the
 The AI:
 The AI uses the 'RESNET 34' model. The system takes in a series of images and works through 'epochs' (repetitions of testing) to become more and more accurate. By doing so, the system can more accurately decipher the emotions on the face of a human.
 
+What can it do:
+So far, the AI is able to detect 3 emotions and 1 'other' state: Happy, Mad, Neutral, and 'blocked'(if there is an object obstructing the view of the user's face). These states are given by sliders on a 0.00 - 1.00 scale, with 1.00 being 100% certainty.
+
 Additional thoughts:
-If I were to improve the AI any further, I would definitely add a wider range of emotions, as well as the ability to read body language or at least detect movement.
+If I were to improve the AI any further, I would definitely add a wider range of emotions, as well as the ability to read body language or at least detect movement. Additionally, I would add more universal images and more 'epochs'
 
 Sources:
 https://www.itbusinessedge.com/business-intelligence/value-emotion-recognition-technology/
